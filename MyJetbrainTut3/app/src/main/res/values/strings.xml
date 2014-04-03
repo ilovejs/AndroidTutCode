@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyJebbrainTut3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeText">HelloMichael</string>
+    <string name="messageDontTouch">Don\'t Touch</string>
+    <string name="headerTitle">Hi Title</string>
+
+</resources>
